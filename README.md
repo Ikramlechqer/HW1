@@ -5,7 +5,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-<a href="https://www.mysite.com/">Visit mysite</a>
+<a href="https://obs.karabuk.edu.tr/">Visit obs karabuk [HW1.docx](https://github.com/Ikramlechqer/HW1/files/11537523/HW1.docx)
+</a>
 <p id="myAnchor">This is an anchor point.</p>
 <a href="#myAnchor">Go to anchor point</a>
 <a href="/another-page.html">Go to another page</a>
