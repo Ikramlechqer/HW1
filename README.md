@@ -1,6 +1,6 @@
 [HW1.docx](https://github.com/Ikramlechqer/HW1/files/11537467/HW1.docx)
 # HW1
-1.	Link to another site, an anchor, a page on the same site
+<!--Link to another site, an anchor, a page on the same site-->
 
 <!DOCTYPE html>
 <html>
@@ -11,8 +11,7 @@
 <a href="/another-page.html">Go to another page</a>
 </body>
 </html>
-
-2.Link that dials a number, runs JavaScript, runs email client
+<!--link that dials a number, runs JavaScript, runs email client-->
 
 <!DOCTYPE html>
 <html>
@@ -23,7 +22,7 @@
 </body>
 </html>
 
-3.	Open the link in a new tab/window
+<!--Open the link in a new tab/window-->
 
 <!DOCTYPE html>
 <html>
